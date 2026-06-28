@@ -317,3 +317,16 @@ section h2 {
         max-width: 320px;
     }
 }
+
+/* FOOTER */
+.footer {
+	text-align: center;
+	padding: 20px;
+	backgroung-color: #020617;
+	border-top: 1px solid #1e293b;
+}
+
+.footer p {
+	font-size: 14px;
+	color: #94a3b8;
+}	
